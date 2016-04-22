@@ -6,5 +6,10 @@ Git push origin test.
 This is on branch master.
 =======
 This is the test on my own branch dev1.
+<<<<<<< HEAD
 This is test to commit to remote origin with branch dev1.
 >>>>>>> dev1
+=======
+This is on branch dev1_1.
+For new feature.
+>>>>>>> dev1_1
