@@ -17,3 +17,4 @@ For new feature.
 =======
 This is readme.txt in branch dev1
 >>>>>>> dev1
+now edit the local Readme.txt, but remote origin master is newer.
