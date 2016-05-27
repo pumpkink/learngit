@@ -1,2 +1,0 @@
-This is a text documentation.
-To leran how to merge add control the Version of Project.
